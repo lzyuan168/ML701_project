@@ -59,10 +59,8 @@ Alternatively, you may also download the dataset directly from the [Google Docs]
 
 Once downloaded, arrange the dataset folder in the following hierarchy:
 
-../dataset/Project_Datasets/Constraint_English_Train.xlsx
-
 ```
-code_root/
+project_root/
 └── dataset/
     └── Project_Datasets/
         ├── Constraint_English_Train.xlsx/
