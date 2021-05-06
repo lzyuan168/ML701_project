@@ -73,14 +73,22 @@ project_root/
 
 ### Training
 
-instructions for training to be added later
+**Training without hyperparameter tuning**
+
+To train the model, run the jupyter notebook from the start until the cell with the heading "For training the Model", but skip the previous cell that is labelled "For hyperparameter tuning". Input the hyperparameters to be used for training the model.
+
+**Hyperparameter tuning**
+
+To run the weights & bias (wandb) hyperparameter tuning, run the jupyter notebook from the start until the cell with the heading "For hyperparameter tuning". It is not necessary to run the "For training the Model" cell. 
+
+After obtaining the best set of hyperparameters from the wandb sweeps, update the "For training the Model" cell with the updated set of hyperparameters before running the cell to train the model with the new updated hyperparameters.
 
 
 ### Evaluation
 
-instructions for evaluation to be added later
+To evaluate the model, run the jupyter notebook from the start until the cell that is labelled "Evaluating the Model" without running "For training the Model" and "For hyperparameter tuning" cells
 
 
 ### Visualizing Results
 
-instructions for visualization to be added later
+To visualize the results obtained from evaluating the model, continue from the steps in Evaluation to the end of the jupyter notebook. At the end the histogram will be displayed in comparison to the supervised baseline model.
