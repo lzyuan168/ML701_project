@@ -7,7 +7,7 @@ In the midst of the COVID-19 pandemic, the spread of fake news either deliberate
 
 **Abstract.** 
 
-Given  the  widespread  usage  of  social  media,  the  spread  of  false  informationand fake news dramatically increased. In the midst of the COVID-19 pandemic,this misinformation may be widely accepted and lead to mass public confusion.This hinders government authority in conducting safety measures to protect thepublic.  The aim of this project is to develop an automatic COVID-19 relatedfake news detection model.  The proposed method utilizes A Lite BidirectionalEncoder Representations from Transformers(ALBERT) to provide meaningfulrepresentations of the various web-based resources.  We will also compare ourmethod to a previously implemented fully supervised approach.
+Given  the  widespread  usage  of  social  media,  the  spread  of  false  information and fake news dramatically increased. In the midst of the COVID-19 pandemic, this misinformation may be widely accepted and lead to mass public confusion. This hinders government authority in conducting safety measures to protect the public.  The aim of this project is to develop an automatic COVID-19 related fake news detection model.  The proposed method utilizes A Lite Bidirectional Encoder Representations from Transformers(ALBERT) to provide meaningful representations of the various web-based resources.  We will also compare our method to a previously implemented fully supervised approach.
 
 
 ## Main Results
