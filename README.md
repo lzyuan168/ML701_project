@@ -53,7 +53,7 @@ Given  the  widespread  usage  of  social  media,  the  spread  of  false  infor
 
 ### Dataset Preparation
 
-The official repository for the covid19 fake news dataset can be found at [Constraint workshop](https://competitions.codalab.org/competitions/26655). This dataset is also being reference by the paper [Infodemic: COVID-19 Fake News Dataset](https://arxiv.org/abs/2011.03327)
+The official repository for the COVID-19 Fake News dataset can be found at [Constraint workshop](https://competitions.codalab.org/competitions/26655). This dataset is also being reference by the paper [Infodemic: COVID-19 Fake News Dataset](https://arxiv.org/abs/2011.03327)
 
 Alternatively, you may also download the dataset directly from the [Google Docs](https://drive.google.com/drive/folders/1MhHkcRs6uMWYbg1jECuTeUmq-C0tXa9z?usp=sharing) page to avoid signing up for the above competition.
 
